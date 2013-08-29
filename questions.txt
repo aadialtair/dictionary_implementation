@@ -1,0 +1,22 @@
+0.  Its the longest word.It refers to a disease.
+
+1.  getrusage gets the resource usage of the calling process.
+
+2.  16 members
+
+3.  If pass by value were,more time would have been wasted to create a copy of all its members.
+
+4.  We scan the file character by character.In the outer for loop we get the next character from the file and we do it as long as its not equal to EOF(end of file).
+    If we encounter a non alphabet we neglect the rest of word and we set index to 0.We again start to looking for a new word.
+
+5.  If fscanf were used we wouldnot be able to neglect words with non alphabets(numbers).
+
+6.  const refers to constant.Itis declared as const variable because we shouldn't alter those variables in our function.
+
+7.  Hash table is used.An array of pointers to node is used.Each node has two fields ie an array of characters to store a word and a pointer to next node.
+
+8.  I had used arrays to store the words of dictionary and binary_search to check.
+
+9.  I hash table to improve the performance.
+
+10. There is still scope for improvement but shortage of time.
